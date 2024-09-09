@@ -1,0 +1,6 @@
+Q1: Why might you consider using git?
+
+Answer: You might consider using git because it allows for a more efficient
+management of code and data changes when working in a team. Git might be a
+better solution than other version control systems because it is the most
+commonly used software for this purpose. 
