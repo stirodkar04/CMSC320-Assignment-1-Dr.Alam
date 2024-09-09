@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Q1: Why might you consider using git?
 
 Answer: You might consider using git because it allows for a more efficient
@@ -15,4 +14,9 @@ data science is the practice of using data to predict an outcome, we might be
 able to use data science in sports to predict athlete performance, the 
 likelihood of a certain play being completed successfully by a team, or
 predicting who might be more likely to win a game. 
->>>>>>> q2
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines work while maintaining your repository's history. 
+Rebasing rewrites your history by adding commits to another base branch and 
+maintains a linear history.
